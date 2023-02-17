@@ -1,0 +1,46 @@
+*{
+   box-sizing: border-box;
+}
+.card-body{
+   background: gray;
+   text-align: center;
+}
+.card-title{
+   text-align: center;
+}
+.card-text{
+   text-align: center;
+}
+body{
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQvZXZv-Ta7G6UNpEvN-OMJmfKXObXYMqAg&usqp=CAU);
+}
+.zxc{
+   width: 70px;
+   height: 70px;
+   border-radius: 50%;
+   box-shadow: btn-box-shadow;
+}
+.navbar-nav {
+   margin-right: 50px;
+}
+.nav-link{
+   color: white;
+}
+.col{
+   padding-top: 70px;
+}
+.card-img-top{
+   height: 400px;
+   width: 260;
+}
+.modal-body {
+   background-image: url(https://about.netflix.com/images/meta/netflix-symbol-black.png);
+   background-size: cover;
+   height: 400px;
+   color: white;
+   text-align: left;
+}
+.about{
+   display:flexbox;
+   padding: 40px;
+}
